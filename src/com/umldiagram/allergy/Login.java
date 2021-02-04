@@ -46,6 +46,7 @@ public class Login {
 		return null;
 	}
 	
+	//@Given("A use registers a patient")
 	public static void main(String[] args) {
 		//showHashValue();
 		collectionutils();
