@@ -22,7 +22,7 @@ public class FrameTest {
 		appframe.dotolist();
 		//for (Object cc : appframe) {
 		System.out.println(gherkin(2789365, 0.0178));
-			
+		System.out.println("My Program with QA Framework");
 		
 	}
 	
